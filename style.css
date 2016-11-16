@@ -642,6 +642,8 @@ div#custom-nav { height:180px; display:inline-block; vertical-align:middle; }
     .entry-thumbnail img { width: 70%; display:block; margin:0 auto; }
     .entry-content h2 { font-weight:bold; }
     .brand-buttons a { font-size: .7rem; width:100%; }
+    #sam-img { width: 80% !important; }
+    #sg-img { width: 80% !important; }
 
 } /* Define mobile styles */
 
@@ -688,6 +690,8 @@ div#custom-nav { height:180px; display:inline-block; vertical-align:middle; }
     .pre-foot .display-posts-listing li:first-child { width:50%; }
     .pre-foot .display-posts-listing li { width:25%; }
     h1 { font-size: 2.250rem; }
+    #sam-img { width: 45% !important; }
+    #sg-img { width: 45% !important; }
 
 } /* min-width 1025px, large screens */
 
